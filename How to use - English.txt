@@ -1,0 +1,39 @@
+How to Use the 🔓Dictionary Password Cracker App
+1. Launch the application
+Run the program (Python file).
+
+A window will open with a password input field, two buttons, and a status display area.
+
+2. Enter the password to test
+In the field labeled "Enter password (for test):", type the password you want the app to try to find.
+
+3. Load the wordlist file
+Click the 📂Load Wordlist button.
+
+Select a text file (.txt) containing a list of possible passwords, one word per line (for example, wordlist.txt).
+
+The app will notify you that the wordlist was successfully loaded.
+
+4. Start the attack
+Click the 🚀Start Attack button.
+
+The app will begin checking each word from the wordlist to see if it matches the entered password.
+
+You will see the current attempt number and the word being tested displayed at the bottom.
+
+5. Result
+If the password is found in the wordlist, a message will appear:
+✅Password found: [your password].
+
+If the password is not in the wordlist, the app will notify you accordingly (if you add that feature).
+
+/TRANSLATE FROM SERBIAN WORDS TO ENGLISH\
+
+Unesi šifru (for test) – Enter password (for test)
+Učitaj Wordlist – Load Wordlist
+Pokreni napad – Start Attack
+
+/If successful/unsuccessful\
+
+❌Lozinka nije pronađena – ❌Password not found
+✅Lozinka pronađena {lozinka} – ✅Password found: {password}

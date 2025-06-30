@@ -1,0 +1,39 @@
+ómo usar la aplicación 🔓Dictionary Password Cracker (Spanish)
+1. Ejecuta la aplicación
+Ejecuta el programa (archivo Python).
+
+Se abrirá una ventana con un campo para ingresar la contraseña, dos botones y un área para mostrar el estado.
+
+2. Ingresa la contraseña para probar
+En el campo que dice "Introduce la contraseña (para prueba):", escribe la contraseña que quieres que la app intente encontrar.
+
+3. Carga el archivo wordlist
+Haz clic en el botón 📂Cargar Wordlist.
+
+Selecciona un archivo de texto (.txt) que contenga una lista de posibles contraseñas, una palabra por línea (por ejemplo, wordlist.txt).
+
+La app te notificará que el wordlist se cargó con éxito.
+
+4. Inicia el ataque
+Haz clic en el botón 🚀Iniciar ataque.
+
+La app comenzará a verificar cada palabra del wordlist para ver si coincide con la contraseña ingresada.
+
+Verás el número de intento actual y la palabra que se está probando en la parte inferior.
+
+5. Resultado
+Si la contraseña se encuentra en el wordlist, aparecerá un mensaje:
+✅Contraseña encontrada: [tu contraseña].
+
+Si la contraseña no está en el wordlist, la app te lo indicará (si añades esta función).
+
+/TRADUCCIÓN DEL SERBIO AL ESPAÑOL\
+
+Unesi šifru (for test) – Introduce la contraseña (para prueba)
+Učitaj Wordlist – Cargar Wordlist
+Pokreni napad – Iniciar ataque
+
+/Si tiene éxito/no tiene éxito\
+
+❌Lozinka nije pronađena – ❌Contraseña no encontrada
+✅Lozinka pronađena {lozinka} – ✅Contraseña encontrada: {contraseña}
