@@ -1,0 +1,2 @@
+English:
+A dictionary attack is a password cracking method where the computer tries to guess the password by going through a list of commonly used words and phrases, called a wordlist or dictionary. This list contains popular passwords people often use, like “password”, “123456”, “4321”, and so on.

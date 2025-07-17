@@ -1,0 +1,1 @@
+Dictionary attack je način hakovanja gde računar pokušava da pogodi lozinku tako što prolazi kroz listu najčešće korišćenih reči i fraza, zvanih wordlist ili rečnik. Ova lista sadrži popularne lozinke koje ljudi često koriste, kao što su “password”, “123456”, “4352” i slično
